@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceIsThePlace", "Assembly-CSharp.csproj", "{C4F675F3-A51C-46F0-F5ED-5C82BFD2221C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F675F3-A51C-46F0-F5ED-5C82BFD2221C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F675F3-A51C-46F0-F5ED-5C82BFD2221C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F675F3-A51C-46F0-F5ED-5C82BFD2221C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F675F3-A51C-46F0-F5ED-5C82BFD2221C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

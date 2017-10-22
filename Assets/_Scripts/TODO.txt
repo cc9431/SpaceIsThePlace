@@ -1,0 +1,4 @@
+//TODO 
+
+//:: Finite State Machine structure for enemy behavior
+//: ex: State0: (Health > 50) => attack | State1: (Health < 50) => swarm
