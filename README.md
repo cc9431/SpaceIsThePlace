@@ -1,6 +1,9 @@
 # Space Is The Place
 (To test this project out, open ExampleBuilds/Build_1 and play!)
 
+<img src="/Docs/Intro.png"/>
+<img src="/Docs/Flanking.png"/>
+
 I created this project to test out my knowledge of model-based agents and AI behavioral systems in games.
 The enemy AI system has two top-level behavior styles, followers and leaders.
 
